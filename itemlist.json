@@ -841,12 +841,6 @@
 		"defname": "VWE_MeleeWeapon_Baton"
 	},
 	{
-		"abr": "baton",
-		"price": 157,
-		"category": "Melee weapons",
-		"defname": "SMM_Baton"
-	},
-	{
 		"abr": "battery",
 		"price": 333,
 		"category": "Power",
