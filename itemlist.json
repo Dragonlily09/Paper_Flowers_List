@@ -8485,12 +8485,6 @@
 		"defname": "SMM_Scythe"
 	},
 	{
-		"abr": "scytherblade",
-		"price": 1250,
-		"category": "Bionic",
-		"defname": "ScytherBlade"
-	},
-	{
 		"abr": "seal",
 		"price": 333,
 		"category": "Animal",
@@ -8559,7 +8553,7 @@
 	{
 		"abr": "shelf",
 		"price": 104,
-		"category": "Furniture",
+		"category": "Storage",
 		"defname": "Shelf"
 	},
 	{
@@ -11767,12 +11761,6 @@
 		"defname": "Techprint_ArtificialMetabolism"
 	},
 	{
-		"abr": "techprint(brainwiring)",
-		"price": 1667,
-		"category": "Techprints",
-		"defname": "Techprint_BrainWiring"
-	},
-	{
 		"abr": "techprint(cataphractarmor)",
 		"price": 5000,
 		"category": "Techprints",
@@ -11879,7 +11867,103 @@
 		"price": 3333,
 		"category": "Melee weapons",
 		"defname": "MeleeWeapon_Zeushammer"
-	}
+	},
+	{
+		"abr": "bearcap",
+		"price": 94,
+		"category": "Animal Caps!",
+		"defname": "AR_Cap_Bear"
+	},
+	{
+		"abr": "catcap",
+		"price": 94,
+		"category": "Animal Caps!",
+		"defname": "AR_Cap_Cat_Spotted"
+	},
+	{
+		"abr": "duckcap",
+		"price": 94,
+		"category": "Animal Caps!",
+		"defname": "AR_Cap_Duck"
+	},
+	{
+		"abr": "gorillacap",
+		"price": 94,
+		"category": "Animal Caps!",
+		"defname": "AR_Cap_Gorilla"
+	},
+	{
+		"abr": "pandacap",
+		"price": 94,
+		"category": "Animal Caps!",
+		"defname": "AR_Cap_Panda"
+	},
+	{
+		"abr": "pugcap",
+		"price": 94,
+		"category": "Animal Caps!",
+		"defname": "AR_Cap_Pug"
+	},
+	{
+		"abr": "rabbitcap",
+		"price": 94,
+		"category": "Animal Caps!",
+		"defname": "AR_Cap_Rabbit_White"
+	},
+	{
+		"abr": "shibacap",
+		"price": 94,
+		"category": "Animal Caps!",
+		"defname": "AR_Cap_Shiba"
+	},
+	{
+		"abr": "therapycouch",
+		"price": 475,
+		"category": "Furniture",
+		"defname": "Couch"
+	},
+	{
+		"abr": "wolfcap",
+		"price": 94,
+		"category": "Animal Caps!",
+		"defname": "AR_Cap_Wolf"
+	},
+	{
+		"abr": "techprint(mechaniterestoration)",
+		"price": 5000,
+		"category": "Techprints",
+		"defname": "Techprint_MechaniteRestoration"
+	},
+	{
+		"abr": "ultrascreentelevision",
+		"price": 3075,
+		"category": "Recreation",
+		"defname": "UltrascreenTV"
+	},
+	{
+		"abr": "chainsaw",
+		"price": 392,
+		"category": "Modern tools",
+		"defname": "SurvivalTools_Chainsaw"
+	},
+	{
+		"abr": "constructionomnitool",
+		"price": 475,
+		"category": "Modern tools",
+		"defname": "SurvivalTools_BuildingOmnitool"
+	},
+	{
+		"abr": "jackhammer",
+		"price": 317,
+		"category": "Modern tools",
+		"defname": "SurvivalTools_Jackhammer"
+	},
+	{
+		"abr": "shovel",
+		"price": 120,
+		"category": "Modern tools",
+		"defname": "SurvivalTools_Shovel"
+	},
 	],
-	"total": 1980
+	"total": 2198
 }
