@@ -170,7 +170,7 @@
 	},
 	{
 		"abr": "agavemust",
-		"price": 17,
+		"price": -10,
 		"category": "Alcohol precursor",
 		"defname": "VG_AgaveMust"
 	},
@@ -241,12 +241,6 @@
 		"defname": "AEXP_EggAlligatorFertilized"
 	},
 	{
-		"abr": "alligatormeat",
-		"price": 3,
-		"category": "Meat",
-		"defname": "Meat_AEXP_Alligator"
-	},
-	{
 		"abr": "aloecream",
 		"price": 44,
 		"category": "Ointments",
@@ -272,13 +266,13 @@
 	},
 	{
 		"abr": "alpacameat",
-		"price": 3,
+		"price": -10,
 		"category": "Meat",
 		"defname": "Meat_Alpaca"
 	},
 	{
 		"abr": "alpacawool",
-		"price": 4,
+		"price": -10,
 		"category": "Textiles",
 		"defname": "WoolAlpaca"
 	},
@@ -290,7 +284,7 @@
 	},
 	{
 		"abr": "alphabeavermeat",
-		"price": 3,
+		"price": -10,
 		"category": "Meat",
 		"defname": "Meat_Alphabeaver"
 	},
@@ -302,7 +296,7 @@
 	},
 	{
 		"abr": "ambrosiamust",
-		"price": 30,
+		"price": -10,
 		"category": "Alcohol precursor",
 		"defname": "VG_AmbrosiaMust"
 	},
@@ -368,7 +362,7 @@
 	},
 	{
 		"abr": "andrewsarchusmeat",
-		"price": 3,
+		"price": -10,
 		"category": "Meat",
 		"defname": "Meat_Andrewsarchus"
 	},
@@ -608,7 +602,7 @@
 	},
 	{
 		"abr": "arcticcoyotemeat",
-		"price": 3,
+		"price": -10,
 		"category": "Meat",
 		"defname": "Meat_AEXP_ArcticCoyote"
 	},
@@ -944,7 +938,7 @@
 	},
 	{
 		"abr": "bearmeat",
-		"price": 3,
+		"price": -10,
 		"category": "Meat",
 		"defname": "Meat_Bear_Grizzly"
 	},
@@ -956,7 +950,7 @@
 	},
 	{
 		"abr": "bearskin",
-		"price": 6,
+		"price": -10,
 		"category": "Leathers",
 		"defname": "Leather_Bear"
 	},
@@ -992,7 +986,7 @@
 	},
 	{
 		"abr": "beetkvasswort",
-		"price": 17,
+		"price": -10,
 		"category": "Alcohol precursor",
 		"defname": "VG_VegKvassWort"
 	},
@@ -1034,7 +1028,7 @@
 	},
 	{
 		"abr": "berrywinemust",
-		"price": 17,
+		"price": -10,
 		"category": "Alcohol precursor",
 		"defname": "CPD_WineMust"
 	},
@@ -1226,13 +1220,13 @@
 	},
 	{
 		"abr": "birdmeat",
-		"price": 3,
+		"price": -10,
 		"category": "Meat",
 		"defname": "Meat_Cassowary"
 	},
 	{
 		"abr": "birdskin",
-		"price": 3,
+		"price": -10,
 		"category": "Leathers",
 		"defname": "Leather_Bird"
 	},
@@ -1244,13 +1238,13 @@
 	},
 	{
 		"abr": "bisonmeat",
-		"price": 3,
+		"price": -10,
 		"category": "Meat",
 		"defname": "Meat_Bison"
 	},
 	{
 		"abr": "bisonwool",
-		"price": 4,
+		"price": -10,
 		"category": "Textiles",
 		"defname": "WoolBison"
 	},
@@ -1262,25 +1256,25 @@
 	},
 	{
 		"abr": "blackcloth",
-		"price": 2,
+		"price": -10,
 		"category": "Dyed Cloth",
 		"defname": "BlackCloth"
 	},
 	{
 		"abr": "blackdevilstrand",
-		"price": 9,
+		"price": -10,
 		"category": "Dyed Devilstrand",
 		"defname": "BlackDevilstrand"
 	},
 	{
 		"abr": "blackhyperweave",
-		"price": 15,
+		"price": -10,
 		"category": "Dyed Hyperweave",
 		"defname": "BlackHyperweave"
 	},
 	{
 		"abr": "blacksynthread",
-		"price": 7,
+		"price": -10,
 		"category": "Dyed Synthread",
 		"defname": "BlackSynthread"
 	},
@@ -1292,7 +1286,7 @@
 	},
 	{
 		"abr": "blendedwool",
-		"price": 4,
+		"price": -10,
 		"category": "Textiles",
 		"defname": "VG_BlendedWool"
 	},
@@ -1352,7 +1346,7 @@
 	},
 	{
 		"abr": "bluecloth",
-		"price": 2,
+		"price": -10,
 		"category": "Dyed Cloth",
 		"defname": "BlueCloth"
 	},
@@ -1364,19 +1358,19 @@
 	},
 	{
 		"abr": "bluedevilstrand",
-		"price": 9,
+		"price": -10,
 		"category": "Dyed Devilstrand",
 		"defname": "BlueDevilstrand"
 	},
 	{
 		"abr": "bluehyperweave",
-		"price": 15,
+		"price": -10,
 		"category": "Dyed Hyperweave",
 		"defname": "BlueHyperweave"
 	},
 	{
 		"abr": "bluesynthread",
-		"price": 7,
+		"price": -10,
 		"category": "Dyed Synthread",
 		"defname": "BlueSynthread"
 	},
@@ -1394,7 +1388,7 @@
 	},
 	{
 		"abr": "bluefur",
-		"price": 4,
+		"price": -10,
 		"category": "Leathers",
 		"defname": "Leather_Bluefur"
 	},
@@ -1454,7 +1448,7 @@
 	},
 	{
 		"abr": "boomalopemeat",
-		"price": 3,
+		"price": -10,
 		"category": "Meat",
 		"defname": "Meat_Boomalope"
 	},
@@ -1472,7 +1466,7 @@
 	},
 	{
 		"abr": "boomratmeat",
-		"price": 3,
+		"price": -10,
 		"category": "Meat",
 		"defname": "Meat_Boomrat"
 	},
@@ -1538,7 +1532,7 @@
 	},
 	{
 		"abr": "brownmalt",
-		"price": 17,
+		"price": -10,
 		"category": "Alcohol precursor",
 		"defname": "VG_BrownMalt"
 	},
@@ -1640,19 +1634,19 @@
 	},
 	{
 		"abr": "camelmeat",
-		"price": 3,
+		"price": -10,
 		"category": "Meat",
 		"defname": "Meat_AEXP_Camel"
 	},
 	{
 		"abr": "camelwool",
-		"price": 4,
+		"price": -10,
 		"category": "Textiles",
 		"defname": "WoolCamel"
 	},
 	{
 		"abr": "camelhide",
-		"price": 4,
+		"price": -10,
 		"category": "Leathers",
 		"defname": "Leather_Camel"
 	},
@@ -1754,7 +1748,7 @@
 	},
 	{
 		"abr": "capybarameat",
-		"price": 3,
+		"price": -10,
 		"category": "Meat",
 		"defname": "Meat_Capybara"
 	},
@@ -1778,7 +1772,7 @@
 	},
 	{
 		"abr": "cariboumeat",
-		"price": 3,
+		"price": -10,
 		"category": "Meat",
 		"defname": "Meat_Caribou"
 	},
@@ -1832,7 +1826,7 @@
 	},
 	{
 		"abr": "catmeat",
-		"price": 3,
+		"price": -10,
 		"category": "Meat",
 		"defname": "Meat_Cat"
 	},
@@ -1904,7 +1898,7 @@
 	},
 	{
 		"abr": "chalicotheriummeat",
-		"price": 3,
+		"price": -10,
 		"category": "Meat",
 		"defname": "Meat_Chalicotherium"
 	},
@@ -2030,7 +2024,7 @@
 	},
 	{
 		"abr": "cheetahmeat",
-		"price": 3,
+		"price": -10,
 		"category": "Meat",
 		"defname": "Meat_AEXP_Cheetah"
 	},
@@ -2096,13 +2090,13 @@
 	},
 	{
 		"abr": "chickenegg(unfert.)",
-		"price": 12,
+		"price": -10,
 		"category": "Eggs (unfert.)",
 		"defname": "EggChickenUnfertilized"
 	},
 	{
 		"abr": "chickenmeat",
-		"price": 3,
+		"price": -10,
 		"category": "Meat",
 		"defname": "Meat_Chicken"
 	},
@@ -2120,13 +2114,13 @@
 	},
 	{
 		"abr": "chinchillafur",
-		"price": 11,
+		"price": -10,
 		"category": "Leathers",
 		"defname": "Leather_Chinchilla"
 	},
 	{
 		"abr": "chinchillameat",
-		"price": 3,
+		"price": -10,
 		"category": "Meat",
 		"defname": "Meat_Chinchilla"
 	},
@@ -2150,7 +2144,7 @@
 	},
 	{
 		"abr": "cidermust",
-		"price": 17,
+		"price": -10,
 		"category": "Alcohol precursor",
 		"defname": "VG_CiderMust"
 	},
@@ -2168,7 +2162,7 @@
 	},
 	{
 		"abr": "cinchonapowder",
-		"price": 0,
+		"price": 1,
 		"category": "Powders",
 		"defname": "AYCinchonaPowder"
 	},
@@ -2276,7 +2270,7 @@
 	},
 	{
 		"abr": "cobrameat",
-		"price": 3,
+		"price": -10,
 		"category": "Meat",
 		"defname": "Meat_Cobra"
 	},
@@ -2438,7 +2432,7 @@
 	},
 	{
 		"abr": "cornwort",
-		"price": 17,
+		"price": -10,
 		"category": "Alcohol precursor",
 		"defname": "CPD_CornWort"
 	},
@@ -2474,7 +2468,7 @@
 	},
 	{
 		"abr": "cougarmeat",
-		"price": 3,
+		"price": -10,
 		"category": "Meat",
 		"defname": "Meat_Cougar"
 	},
@@ -2504,7 +2498,7 @@
 	},
 	{
 		"abr": "coyotemeat",
-		"price": 3,
+		"price": -10,
 		"category": "Meat",
 		"defname": "Meat_AEXP_Coyote"
 	},
@@ -2528,19 +2522,19 @@
 	},
 	{
 		"abr": "crocodileegg(unfert.)",
-		"price": 40,
+		"price": -10,
 		"category": "Eggs (unfert.)",
 		"defname": "AEXP_EggCrocodileUnfertilized"
 	},
 	{
 		"abr": "crocodilemeat",
-		"price": 3,
+		"price": -10,
 		"category": "Meat",
 		"defname": "Meat_AEXP_Crocodile"
 	},
 	{
 		"abr": "crocodilemeat",
-		"price": 3,
+		"price": -10,
 		"category": "Meat",
 		"defname": "Meat_Quinkana"
 	},
@@ -2690,7 +2684,7 @@
 	},
 	{
 		"abr": "deserttortoiseegg(unfert.)",
-		"price": 17,
+		"price": -10,
 		"category": "Eggs (unfert.)",
 		"defname": "AEXP_EggDesertTortoiseUnfertilized"
 	},
@@ -2726,7 +2720,7 @@
 	},
 	{
 		"abr": "dinocrocutameat",
-		"price": 3,
+		"price": -10,
 		"category": "Meat",
 		"defname": "Meat_Dinocrocuta"
 	},
@@ -2756,7 +2750,7 @@
 	},
 	{
 		"abr": "diprotodonmeat",
-		"price": 3,
+		"price": -10,
 		"category": "Meat",
 		"defname": "Meat_Diprotodon"
 	},
@@ -2792,7 +2786,7 @@
 	},
 	{
 		"abr": "doedicurusmeat",
-		"price": 3,
+		"price": -10,
 		"category": "Meat",
 		"defname": "Meat_Doedicurus"
 	},
@@ -2804,13 +2798,13 @@
 	},
 	{
 		"abr": "dogleather",
-		"price": 3,
+		"price": -10,
 		"category": "Leathers",
 		"defname": "Leather_Dog"
 	},
 	{
 		"abr": "dogmeat",
-		"price": 3,
+		"price": -10,
 		"category": "Meat",
 		"defname": "Meat_AEXP_Beagle"
 	},
@@ -2822,7 +2816,7 @@
 	},
 	{
 		"abr": "donkeymeat",
-		"price": 3,
+		"price": -10,
 		"category": "Meat",
 		"defname": "Meat_Donkey"
 	},
@@ -2840,31 +2834,31 @@
 	},
 	{
 		"abr": "doormat(blue)",
-		"price": 8,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "LT_DoorMatBlue"
 	},
 	{
 		"abr": "doormat(green)",
-		"price": 8,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "LT_DoorMatGreen"
 	},
 	{
 		"abr": "doormat(orange)",
-		"price": 8,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "LT_DoorMatOrange"
 	},
 	{
 		"abr": "doormat(red)",
-		"price": 8,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "LT_DoorMatRed"
 	},
 	{
 		"abr": "doormat(teal)",
-		"price": 8,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "LT_DoorMatTeal"
 	},
@@ -2900,7 +2894,7 @@
 	},
 	{
 		"abr": "dromedarymeat",
-		"price": 3,
+		"price": -10,
 		"category": "Meat",
 		"defname": "Meat_Dromedary"
 	},
@@ -2966,13 +2960,13 @@
 	},
 	{
 		"abr": "duckegg(unfert.)",
-		"price": 12,
+		"price": -10,
 		"category": "Eggs (unfert.)",
 		"defname": "EggDuckUnfertilized"
 	},
 	{
 		"abr": "duckmeat",
-		"price": 3,
+		"price": -10,
 		"category": "Meat",
 		"defname": "Meat_Duck"
 	},
@@ -3032,7 +3026,7 @@
 	},
 	{
 		"abr": "elasmotheriumwool",
-		"price": 8,
+		"price": -10,
 		"category": "Textiles",
 		"defname": "ElasmotheriumWool"
 	},
@@ -3164,13 +3158,13 @@
 	},
 	{
 		"abr": "elephantleather",
-		"price": 5,
+		"price": -10,
 		"category": "Leathers",
 		"defname": "Leather_Elephant"
 	},
 	{
 		"abr": "elephantmeat",
-		"price": 3,
+		"price": -10,
 		"category": "Meat",
 		"defname": "Meat_Elephant"
 	},
@@ -3206,7 +3200,7 @@
 	},
 	{
 		"abr": "elkmeat",
-		"price": 3,
+		"price": -10,
 		"category": "Meat",
 		"defname": "Meat_Elk"
 	},
@@ -3734,13 +3728,13 @@
 	},
 	{
 		"abr": "foxmeat",
-		"price": 3,
+		"price": -10,
 		"category": "Meat",
 		"defname": "Meat_Fox_Fennec"
 	},
 	{
 		"abr": "foxfur",
-		"price": 6,
+		"price": -10,
 		"category": "Leathers",
 		"defname": "Leather_Fox"
 	},
@@ -3770,13 +3764,13 @@
 	},
 	{
 		"abr": "fruitkvasswort",
-		"price": 17,
+		"price": -10,
 		"category": "Alcohol precursor",
 		"defname": "VG_FruitKvassWort"
 	},
 	{
 		"abr": "fruitmash",
-		"price": 17,
+		"price": -10,
 		"category": "Alcohol precursor",
 		"defname": "VG_FruitMash"
 	},
@@ -3860,7 +3854,7 @@
 	},
 	{
 		"abr": "garlicpowder",
-		"price": 0,
+		"price": 1,
 		"category": "Powders",
 		"defname": "AYGarlicPowder"
 	},
@@ -3890,7 +3884,7 @@
 	},
 	{
 		"abr": "gazellemeat",
-		"price": 3,
+		"price": -10,
 		"category": "Meat",
 		"defname": "Meat_Gazelle"
 	},
@@ -3950,13 +3944,13 @@
 	},
 	{
 		"abr": "gilamonsteregg(unfert.)",
-		"price": 20,
+		"price": -10,
 		"category": "Eggs (unfert.)",
 		"defname": "AEXP_EggGilaMonsterUnfertilized"
 	},
 	{
 		"abr": "gilamonstermeat",
-		"price": 3,
+		"price": -10,
 		"category": "Meat",
 		"defname": "Meat_AEXP_GilaMonster"
 	},
@@ -4022,7 +4016,7 @@
 	},
 	{
 		"abr": "giraffemeat",
-		"price": 3,
+		"price": -10,
 		"category": "Meat",
 		"defname": "Meat_AEXP_Giraffe"
 	},
@@ -4124,7 +4118,7 @@
 	},
 	{
 		"abr": "goatmeat",
-		"price": 3,
+		"price": -10,
 		"category": "Meat",
 		"defname": "Meat_Goat"
 	},
@@ -4178,7 +4172,7 @@
 	},
 	{
 		"abr": "gooseegg(unfert.)",
-		"price": 15,
+		"price": -10,
 		"category": "Eggs (unfert.)",
 		"defname": "EggGooseUnfertilized"
 	},
@@ -4262,25 +4256,25 @@
 	},
 	{
 		"abr": "greencloth",
-		"price": 2,
+		"price": -10,
 		"category": "Dyed Cloth",
 		"defname": "GreenCloth"
 	},
 	{
 		"abr": "greendevilstrand",
-		"price": 9,
+		"price": -10,
 		"category": "Dyed Devilstrand",
 		"defname": "GreenDevilstrand"
 	},
 	{
 		"abr": "greenhyperweave",
-		"price": 15,
+		"price": -10,
 		"category": "Dyed Hyperweave",
 		"defname": "GreenHyperweave"
 	},
 	{
 		"abr": "greensynthread",
-		"price": 7,
+		"price": -10,
 		"category": "Dyed Synthread",
 		"defname": "GreenSynthread"
 	},
@@ -4292,25 +4286,25 @@
 	},
 	{
 		"abr": "greycloth",
-		"price": 2,
+		"price": -10,
 		"category": "Dyed Cloth",
 		"defname": "GreyCloth"
 	},
 	{
 		"abr": "greydevilstrand",
-		"price": 9,
+		"price": -10,
 		"category": "Dyed Devilstrand",
 		"defname": "GreyDevilstrand"
 	},
 	{
 		"abr": "greyhyperweave",
-		"price": 15,
+		"price": -10,
 		"category": "Dyed Hyperweave",
 		"defname": "GreyHyperweave"
 	},
 	{
 		"abr": "greysynthread",
-		"price": 7,
+		"price": -10,
 		"category": "Dyed Synthread",
 		"defname": "GreySynthread"
 	},
@@ -4370,13 +4364,13 @@
 	},
 	{
 		"abr": "guineapigfur",
-		"price": 8,
+		"price": -10,
 		"category": "Leathers",
 		"defname": "Leather_GuineaPig"
 	},
 	{
 		"abr": "guineapigmeat",
-		"price": 3,
+		"price": -10,
 		"category": "Meat",
 		"defname": "Meat_GuineaPig"
 	},
@@ -4460,7 +4454,7 @@
 	},
 	{
 		"abr": "haremeat",
-		"price": 3,
+		"price": -10,
 		"category": "Meat",
 		"defname": "Meat_Hare"
 	},
@@ -4544,7 +4538,7 @@
 	},
 	{
 		"abr": "heavyfur",
-		"price": 6,
+		"price": -10,
 		"category": "Leathers",
 		"defname": "Leather_Heavy"
 	},
@@ -4622,13 +4616,13 @@
 	},
 	{
 		"abr": "hippopotamusleather",
-		"price": 6,
+		"price": -10,
 		"category": "Leathers",
 		"defname": "AEXP_Leather_Hippopotamus"
 	},
 	{
 		"abr": "hippopotamusmeat",
-		"price": 3,
+		"price": -10,
 		"category": "Meat",
 		"defname": "Meat_AEXP_Hippopotamus"
 	},
@@ -4700,7 +4694,7 @@
 	},
 	{
 		"abr": "horsemeat",
-		"price": 3,
+		"price": -10,
 		"category": "Meat",
 		"defname": "Meat_Horse"
 	},
@@ -4766,7 +4760,7 @@
 	},
 	{
 		"abr": "huskymeat",
-		"price": 3,
+		"price": -10,
 		"category": "Meat",
 		"defname": "Meat_Husky"
 	},
@@ -4796,7 +4790,7 @@
 	},
 	{
 		"abr": "hyenameat",
-		"price": 3,
+		"price": -10,
 		"category": "Meat",
 		"defname": "Meat_AEXP_Hyena"
 	},
@@ -4814,7 +4808,7 @@
 	},
 	{
 		"abr": "ibexmeat",
-		"price": 3,
+		"price": -10,
 		"category": "Meat",
 		"defname": "Meat_Ibex"
 	},
@@ -4904,7 +4898,7 @@
 	},
 	{
 		"abr": "iguanameat",
-		"price": 3,
+		"price": -10,
 		"category": "Meat",
 		"defname": "Meat_Iguana"
 	},
@@ -4958,7 +4952,7 @@
 	},
 	{
 		"abr": "indiantelephantmeat",
-		"price": 3,
+		"price": -10,
 		"category": "Meat",
 		"defname": "Meat_AEXP_IndianElephant"
 	},
@@ -5162,7 +5156,7 @@
 	},
 	{
 		"abr": "jaguarmeat",
-		"price": 3,
+		"price": -10,
 		"category": "Meat",
 		"defname": "Meat_AEXP_Jaguar"
 	},
@@ -5192,13 +5186,13 @@
 	},
 	{
 		"abr": "josephoartigasiameat",
-		"price": 3,
+		"price": -10,
 		"category": "Meat",
 		"defname": "Meat_Josephoartigasia"
 	},
 	{
 		"abr": "josephoartigasiawool",
-		"price": 6,
+		"price": -10,
 		"category": "Textiles",
 		"defname": "JosephoartigasiaWool"
 	},
@@ -5240,13 +5234,13 @@
 	},
 	{
 		"abr": "kangaroomeat",
-		"price": 3,
+		"price": -10,
 		"category": "Meat",
 		"defname": "Meat_AEXP_Kangaroo"
 	},
 	{
 		"abr": "kangaroomeat",
-		"price": 3,
+		"price": -10,
 		"category": "Meat",
 		"defname": "Meat_Procoptodon"
 	},
@@ -5336,7 +5330,7 @@
 	},
 	{
 		"abr": "koalameat",
-		"price": 3,
+		"price": -10,
 		"category": "Meat",
 		"defname": "Meat_AEXP_Koala"
 	},
@@ -5366,7 +5360,7 @@
 	},
 	{
 		"abr": "kvasssodawort",
-		"price": 17,
+		"price": -10,
 		"category": "Alcohol precursor",
 		"defname": "VG_KvassSodaWort"
 	},
@@ -5384,7 +5378,7 @@
 	},
 	{
 		"abr": "labradorretrievermeat",
-		"price": 3,
+		"price": -10,
 		"category": "Meat",
 		"defname": "Meat_LabradorRetriever"
 	},
@@ -5426,31 +5420,31 @@
 	},
 	{
 		"abr": "largedoormat(blue)",
-		"price": 13,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "LT_DoorMatBigBlue"
 	},
 	{
 		"abr": "largedoormat(green)",
-		"price": 13,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "LT_DoorMatBigGreen"
 	},
 	{
 		"abr": "largedoormat(orange)",
-		"price": 13,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "LT_DoorMatBigOrange"
 	},
 	{
 		"abr": "largedoormat(red)",
-		"price": 13,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "LT_DoorMatBigRed"
 	},
 	{
 		"abr": "largedoormat(teal)",
-		"price": 13,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "LT_DoorMatBigTeal"
 	},
@@ -5636,19 +5630,19 @@
 	},
 	{
 		"abr": "limecloth",
-		"price": 2,
+		"price": -10,
 		"category": "Dyed Cloth",
 		"defname": "LimeCloth"
 	},
 	{
 		"abr": "limedevilstrand",
-		"price": 9,
+		"price": -10,
 		"category": "Dyed Devilstrand",
 		"defname": "LimeDevilstrand"
 	},
 	{
 		"abr": "limehyperweave",
-		"price": 15,
+		"price": -10,
 		"category": "Dyed Hyperweave",
 		"defname": "LimeHyperweave"
 	},
@@ -5660,7 +5654,7 @@
 	},
 	{
 		"abr": "limesynthread",
-		"price": 7,
+		"price": -10,
 		"category": "Dyed Synthread",
 		"defname": "LimeSynthread"
 	},
@@ -5690,13 +5684,13 @@
 	},
 	{
 		"abr": "lionmeat",
-		"price": 3,
+		"price": -10,
 		"category": "Meat",
 		"defname": "Meat_AEXP_Lion"
 	},
 	{
 		"abr": "lionpelt",
-		"price": 9,
+		"price": -10,
 		"category": "Leathers",
 		"defname": "AEXP_Leather_Lion"
 	},
@@ -5720,13 +5714,13 @@
 	},
 	{
 		"abr": "lizardmeat",
-		"price": 3,
+		"price": -10,
 		"category": "Meat",
 		"defname": "Meat_Megalania"
 	},
 	{
 		"abr": "lizardskin",
-		"price": 3,
+		"price": -10,
 		"category": "Leathers",
 		"defname": "Leather_Lizard"
 	},
@@ -5768,7 +5762,7 @@
 	},
 	{
 		"abr": "luciferium",
-		"price": 200,
+		"price": -10,
 		"category": "Drugs",
 		"defname": "Luciferium"
 	},
@@ -5792,7 +5786,7 @@
 	},
 	{
 		"abr": "lynxmeat",
-		"price": 3,
+		"price": -10,
 		"category": "Meat",
 		"defname": "Meat_Lynx"
 	},
@@ -5852,7 +5846,7 @@
 	},
 	{
 		"abr": "macraucheniameat",
-		"price": 3,
+		"price": -10,
 		"category": "Meat",
 		"defname": "Meat_Macrauchenia"
 	},
@@ -5894,7 +5888,7 @@
 	},
 	{
 		"abr": "mammothwool",
-		"price": 6,
+		"price": -10,
 		"category": "Textiles",
 		"defname": "MammothWool"
 	},
@@ -6146,7 +6140,7 @@
 	},
 	{
 		"abr": "meadbase",
-		"price": 17,
+		"price": -10,
 		"category": "Alcohol precursor",
 		"defname": "VG_MeadBase"
 	},
@@ -6332,13 +6326,13 @@
 	},
 	{
 		"abr": "megaslothmeat",
-		"price": 3,
+		"price": -10,
 		"category": "Meat",
 		"defname": "Meat_Megasloth"
 	},
 	{
 		"abr": "megaslothwool",
-		"price": 4,
+		"price": -10,
 		"category": "Textiles",
 		"defname": "WoolMegasloth"
 	},
@@ -6356,7 +6350,7 @@
 	},
 	{
 		"abr": "megawolverinemeat",
-		"price": 3,
+		"price": -10,
 		"category": "Meat",
 		"defname": "Meat_AEXP_MegaWolverine"
 	},
@@ -6530,7 +6524,7 @@
 	},
 	{
 		"abr": "monkeymeat",
-		"price": 3,
+		"price": -10,
 		"category": "Meat",
 		"defname": "Meat_Monkey"
 	},
@@ -6554,7 +6548,7 @@
 	},
 	{
 		"abr": "moosemeat",
-		"price": 3,
+		"price": -10,
 		"category": "Meat",
 		"defname": "Meat_AEXP_Moose"
 	},
@@ -6608,13 +6602,13 @@
 	},
 	{
 		"abr": "muffalomeat",
-		"price": 3,
+		"price": -10,
 		"category": "Meat",
 		"defname": "Meat_Muffalo"
 	},
 	{
 		"abr": "muffalowool",
-		"price": 4,
+		"price": -10,
 		"category": "Textiles",
 		"defname": "WoolMuffalo"
 	},
@@ -6662,13 +6656,13 @@
 	},
 	{
 		"abr": "muskoxmeat",
-		"price": 3,
+		"price": -10,
 		"category": "Meat",
 		"defname": "Meat_AEXP_Muskox"
 	},
 	{
 		"abr": "muskoxwool",
-		"price": 12,
+		"price": -10,
 		"category": "Textiles",
 		"defname": "AEXP_MuskOxWool"
 	},
@@ -6944,19 +6938,19 @@
 	},
 	{
 		"abr": "orangecloth",
-		"price": 2,
+		"price": -10,
 		"category": "Dyed Cloth",
 		"defname": "OrangeCloth"
 	},
 	{
 		"abr": "orangedevilstrand",
-		"price": 9,
+		"price": -10,
 		"category": "Dyed Devilstrand",
 		"defname": "OrangeDevilstrand"
 	},
 	{
 		"abr": "orangehyperweave",
-		"price": 15,
+		"price": -10,
 		"category": "Dyed Hyperweave",
 		"defname": "OrangeHyperweave"
 	},
@@ -6968,7 +6962,7 @@
 	},
 	{
 		"abr": "orangesynthread",
-		"price": 7,
+		"price": -10,
 		"category": "Dyed Synthread",
 		"defname": "OrangeSynthread"
 	},
@@ -7010,13 +7004,13 @@
 	},
 	{
 		"abr": "ottermeat",
-		"price": 3,
+		"price": -10,
 		"category": "Meat",
 		"defname": "Meat_AEXP_Otter"
 	},
 	{
 		"abr": "ottermeat",
-		"price": 3,
+		"price": -10,
 		"category": "Meat",
 		"defname": "Meat_Enhydriodon"
 	},
@@ -7100,13 +7094,13 @@
 	},
 	{
 		"abr": "panthermeat",
-		"price": 3,
+		"price": -10,
 		"category": "Meat",
 		"defname": "Meat_Panther"
 	},
 	{
 		"abr": "pantherafur",
-		"price": 5,
+		"price": -10,
 		"category": "Leathers",
 		"defname": "Leather_Panthera"
 	},
@@ -7304,7 +7298,7 @@
 	},
 	{
 		"abr": "pigskin",
-		"price": 3,
+		"price": -10,
 		"category": "Leathers",
 		"defname": "Leather_Pig"
 	},
@@ -7346,37 +7340,37 @@
 	},
 	{
 		"abr": "pinkcloth",
-		"price": 2,
+		"price": -10,
 		"category": "Dyed Cloth",
 		"defname": "PinkCloth"
 	},
 	{
 		"abr": "pinkdevilstrand",
-		"price": 9,
+		"price": -10,
 		"category": "Dyed Devilstrand",
 		"defname": "PinkDevilstrand"
 	},
 	{
 		"abr": "pinkhyperweave",
-		"price": 15,
+		"price": -10,
 		"category": "Dyed Hyperweave",
 		"defname": "PinkHyperweave"
 	},
 	{
 		"abr": "pinksynthread",
-		"price": 7,
+		"price": -10,
 		"category": "Dyed Synthread",
 		"defname": "PinkSynthread"
 	},
 	{
 		"abr": "pinnipedleather",
-		"price": 8,
+		"price": -10,
 		"category": "Leathers",
 		"defname": "AEXP_Leather_Pinniped"
 	},
 	{
 		"abr": "pinnipedmeat",
-		"price": 3,
+		"price": -10,
 		"category": "Meat",
 		"defname": "Meat_AEXP_Seal"
 	},
@@ -7526,13 +7520,13 @@
 	},
 	{
 		"abr": "platypusleather",
-		"price": 15,
+		"price": -10,
 		"category": "Leathers",
 		"defname": "AEXP_Leather_Platypus"
 	},
 	{
 		"abr": "platypusmeat",
-		"price": 3,
+		"price": -10,
 		"category": "Meat",
 		"defname": "Meat_AEXP_Platypus"
 	},
@@ -7622,13 +7616,13 @@
 	},
 	{
 		"abr": "porcupinemeat",
-		"price": 3,
+		"price": -10,
 		"category": "Meat",
 		"defname": "Meat_AEXP_Porcupine"
 	},
 	{
 		"abr": "pork",
-		"price": 3,
+		"price": -10,
 		"category": "Meat",
 		"defname": "Meat_Pig"
 	},
@@ -7706,7 +7700,7 @@
 	},
 	{
 		"abr": "primatemeat",
-		"price": 3,
+		"price": -10,
 		"category": "Meat",
 		"defname": "Meat_AEXP_Gorilla"
 	},
@@ -7832,31 +7826,31 @@
 	},
 	{
 		"abr": "purewhitecloth",
-		"price": 2,
+		"price": -10,
 		"category": "Dyed Cloth",
 		"defname": "PureWhiteCloth"
 	},
 	{
 		"abr": "purplecloth",
-		"price": 2,
+		"price": -10,
 		"category": "Dyed Cloth",
 		"defname": "PurpleCloth"
 	},
 	{
 		"abr": "purpledevilstrand",
-		"price": 9,
+		"price": -10,
 		"category": "Dyed Devilstrand",
 		"defname": "PurpleDevilstrand"
 	},
 	{
 		"abr": "purplehyperweave",
-		"price": 15,
+		"price": -10,
 		"category": "Dyed Hyperweave",
 		"defname": "PurpleHyperweave"
 	},
 	{
 		"abr": "purplesynthread",
-		"price": 7,
+		"price": -10,
 		"category": "Dyed Synthread",
 		"defname": "PurpleSynthread"
 	},
@@ -7916,7 +7910,7 @@
 	},
 	{
 		"abr": "raccoonmeat",
-		"price": 3,
+		"price": -10,
 		"category": "Meat",
 		"defname": "Meat_Raccoon"
 	},
@@ -7940,7 +7934,7 @@
 	},
 	{
 		"abr": "ratmeat",
-		"price": 3,
+		"price": -10,
 		"category": "Meat",
 		"defname": "Meat_Rat"
 	},
@@ -7958,7 +7952,7 @@
 	},
 	{
 		"abr": "rattlesnakeegg(unfert.)",
-		"price": 47,
+		"price": -10,
 		"category": "Eggs (unfert.)",
 		"defname": "AEXP_EggRattlesnakeUnfertilized"
 	},
@@ -8012,13 +8006,13 @@
 	},
 	{
 		"abr": "redcloth",
-		"price": 2,
+		"price": -10,
 		"category": "Dyed Cloth",
 		"defname": "RedCloth"
 	},
 	{
 		"abr": "reddevilstrand",
-		"price": 9,
+		"price": -10,
 		"category": "Dyed Devilstrand",
 		"defname": "RedDevilstrand"
 	},
@@ -8030,7 +8024,7 @@
 	},
 	{
 		"abr": "redhyperweave",
-		"price": 15,
+		"price": -10,
 		"category": "Dyed Hyperweave",
 		"defname": "RedHyperweave"
 	},
@@ -8042,7 +8036,7 @@
 	},
 	{
 		"abr": "redsynthread",
-		"price": 7,
+		"price": -10,
 		"category": "Dyed Synthread",
 		"defname": "RedSynthread"
 	},
@@ -8108,13 +8102,13 @@
 	},
 	{
 		"abr": "rhinocerosleather",
-		"price": 7,
+		"price": -10,
 		"category": "Leathers",
 		"defname": "Leather_Rhinoceros"
 	},
 	{
 		"abr": "rhinocerosmeat",
-		"price": 3,
+		"price": -10,
 		"category": "Meat",
 		"defname": "Meat_Rhinoceros"
 	},
@@ -8126,7 +8120,7 @@
 	},
 	{
 		"abr": "ricemash",
-		"price": 17,
+		"price": -10,
 		"category": "Alcohol precursor",
 		"defname": "CPD_RiceMash"
 	},
@@ -8366,7 +8360,7 @@
 	},
 	{
 		"abr": "saltedmeat",
-		"price": 8,
+		"price": -10,
 		"category": "Meat",
 		"defname": "SaltedMeat"
 	},
@@ -8540,7 +8534,7 @@
 	},
 	{
 		"abr": "sheepmeat",
-		"price": 3,
+		"price": -10,
 		"category": "Meat",
 		"defname": "Meat_Sheep"
 	},
@@ -8798,7 +8792,7 @@
 	},
 	{
 		"abr": "sivatheriummeat",
-		"price": 3,
+		"price": -10,
 		"category": "Meat",
 		"defname": "Meat_Sivatherium"
 	},
@@ -9014,7 +9008,7 @@
 	},
 	{
 		"abr": "snakemeat",
-		"price": 3,
+		"price": -10,
 		"category": "Meat",
 		"defname": "Meat_Titanoboa"
 	},
@@ -9356,7 +9350,7 @@
 	},
 	{
 		"abr": "sugarcanemash",
-		"price": 17,
+		"price": -10,
 		"category": "Alcohol precursor",
 		"defname": "VG_CaneMash"
 	},
@@ -10106,25 +10100,25 @@
 	},
 	{
 		"abr": "tealcloth",
-		"price": 2,
+		"price": -10,
 		"category": "Dyed Cloth",
 		"defname": "TealCloth"
 	},
 	{
 		"abr": "tealdevilstrand",
-		"price": 9,
+		"price": -10,
 		"category": "Dyed Devilstrand",
 		"defname": "TealDevilstrand"
 	},
 	{
 		"abr": "tealhyperweave",
-		"price": 15,
+		"price": -10,
 		"category": "Dyed Hyperweave",
 		"defname": "TealHyperweave"
 	},
 	{
 		"abr": "tealsynthread",
-		"price": 7,
+		"price": -10,
 		"category": "Dyed Synthread",
 		"defname": "TealSynthread"
 	},
@@ -10208,13 +10202,13 @@
 	},
 	{
 		"abr": "thrumbomeat",
-		"price": 3,
+		"price": -10,
 		"category": "Meat",
 		"defname": "Meat_Thrumbo"
 	},
 	{
 		"abr": "thrumbofur",
-		"price": 23,
+		"price": -10,
 		"category": "Leathers",
 		"defname": "Leather_Thrumbo"
 	},
@@ -10226,13 +10220,13 @@
 	},
 	{
 		"abr": "tigerleather",
-		"price": 12,
+		"price": -10,
 		"category": "Leathers",
 		"defname": "AEXP_Leather_Tiger"
 	},
 	{
 		"abr": "tigermeat",
-		"price": 3,
+		"price": -10,
 		"category": "Meat",
 		"defname": "Meat_AEXP_Tiger"
 	},
@@ -10328,7 +10322,7 @@
 	},
 	{
 		"abr": "tortoisemeat",
-		"price": 3,
+		"price": -10,
 		"category": "Meat",
 		"defname": "Meat_Tortoise"
 	},
@@ -10538,7 +10532,7 @@
 	},
 	{
 		"abr": "turkeymeat",
-		"price": 3,
+		"price": -10,
 		"category": "Meat",
 		"defname": "Meat_Turkey"
 	},
@@ -10574,13 +10568,13 @@
 	},
 	{
 		"abr": "uintatheriummeat",
-		"price": 3,
+		"price": -10,
 		"category": "Meat",
 		"defname": "Meat_Uintatherium"
 	},
 	{
 		"abr": "undistilledvodka",
-		"price": 3,
+		"price": -10,
 		"category": "Alcohol precursor",
 		"defname": "CPD_VodkaPrecursor"
 	},
@@ -10688,13 +10682,13 @@
 	},
 	{
 		"abr": "veganeggsubstitute",
-		"price": 3,
+		"price": -10,
 		"category": "Eggs (unfert.)",
 		"defname": "VeganEgg"
 	},
 	{
 		"abr": "venison",
-		"price": 3,
+		"price": -10,
 		"category": "Meat",
 		"defname": "Meat_Deer"
 	},
@@ -10724,7 +10718,7 @@
 	},
 	{
 		"abr": "violetpurplecloth",
-		"price": 2,
+		"price": -10,
 		"category": "Dyed Cloth",
 		"defname": "VioletCloth"
 	},
@@ -10832,7 +10826,7 @@
 	},
 	{
 		"abr": "walrusmeat",
-		"price": 3,
+		"price": -10,
 		"category": "Meat",
 		"defname": "Meat_Gomphotaria"
 	},
@@ -10874,7 +10868,7 @@
 	},
 	{
 		"abr": "wargmeat",
-		"price": 3,
+		"price": -10,
 		"category": "Meat",
 		"defname": "Meat_Warg"
 	},
@@ -10964,19 +10958,19 @@
 	},
 	{
 		"abr": "whitedevilstrand",
-		"price": 9,
+		"price": -10,
 		"category": "Dyed Devilstrand",
 		"defname": "WhiteDevilstrand"
 	},
 	{
 		"abr": "whitehyperweave",
-		"price": 15,
+		"price": -10,
 		"category": "Dyed Hyperweave",
 		"defname": "WhiteHyperweave"
 	},
 	{
 		"abr": "whitesynthread",
-		"price": 7,
+		"price": -10,
 		"category": "Dyed Synthread",
 		"defname": "WhiteSynthread"
 	},
@@ -11024,7 +11018,7 @@
 	},
 	{
 		"abr": "wildebeestpelt",
-		"price": 5,
+		"price": -10,
 		"category": "Leathers",
 		"defname": "AEXP_Leather_Wildebeest"
 	},
@@ -11042,19 +11036,19 @@
 	},
 	{
 		"abr": "winemust",
-		"price": 17,
+		"price": -10,
 		"category": "Alcohol precursor",
 		"defname": "VG_GrapeMust"
 	},
 	{
 		"abr": "wolfmeat",
-		"price": 3,
+		"price": -10,
 		"category": "Meat",
 		"defname": "Meat_Wolf_Timber"
 	},
 	{
 		"abr": "wolfskin",
-		"price": 5,
+		"price": -10,
 		"category": "Leathers",
 		"defname": "Leather_Wolf"
 	},
@@ -11120,7 +11114,7 @@
 	},
 	{
 		"abr": "wort",
-		"price": 4,
+		"price": -10,
 		"category": "Alcohol precursor",
 		"defname": "Wort"
 	},
@@ -11138,7 +11132,7 @@
 	},
 	{
 		"abr": "yakbeef",
-		"price": 3,
+		"price": -10,
 		"category": "Meat",
 		"defname": "Meat_Yak"
 	},
@@ -11174,25 +11168,25 @@
 	},
 	{
 		"abr": "yellowcloth",
-		"price": 2,
+		"price": -10,
 		"category": "Dyed Cloth",
 		"defname": "YellowCloth"
 	},
 	{
 		"abr": "yellowdevilstrand",
-		"price": 9,
+		"price": -10,
 		"category": "Dyed Devilstrand",
 		"defname": "YellowDevilstrand"
 	},
 	{
 		"abr": "yellowhyperweave",
-		"price": 15,
+		"price": -10,
 		"category": "Dyed Hyperweave",
 		"defname": "YellowHyperweave"
 	},
 	{
 		"abr": "yellowsynthread",
-		"price": 7,
+		"price": -10,
 		"category": "Dyed Synthread",
 		"defname": "YellowSynthread"
 	},
@@ -11216,7 +11210,7 @@
 	},
 	{
 		"abr": "yorkshireterriermeat",
-		"price": 3,
+		"price": -10,
 		"category": "Meat",
 		"defname": "Meat_YorkshireTerrier"
 	},
@@ -11965,5 +11959,5 @@
 		"defname": "SurvivalTools_Shovel"
 	},
 	],
-	"total": 2198
+	"total": 2197
 }
